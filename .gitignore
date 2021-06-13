@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+*/__pycache__/*
+
+# other format files like .pyc 
+*.py[cod]
+
+### OSX ###
+.DS_Store
+
+
+# Django stuff:
+*.log
+
+# sqllit db log file
+db.sqlite3
+
+# Environments
+.env
